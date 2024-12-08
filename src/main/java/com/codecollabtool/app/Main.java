@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             // Initialize service
-            CollaborationService service = new CollaborationService();
+            UserServlet service = new UserServlet();
 
             // Create a user
             User newUser = new User("john_doe", "john@example.com", "password123");
