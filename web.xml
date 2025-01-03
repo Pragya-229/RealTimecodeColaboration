@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>UserServlet</servlet-name>
+    <servlet-class>com.codecollab.controllers.UserServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>UserServlet</servlet-name>
+    <url-pattern>/user</url-pattern>
+</servlet-mapping>

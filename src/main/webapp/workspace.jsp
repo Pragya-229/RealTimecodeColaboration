@@ -44,7 +44,7 @@
                 participantsList.appendChild(li);
             });
         });
-
+       
         //
     </script>
 </body>
